@@ -1,6 +1,6 @@
 /*
 * Hello Fork Github Example Arduino Sketch
-* Just add your GitHUb account ID and I'll add you pull request to the project.
+* ARMWorks
 */
 
 void setup() {
